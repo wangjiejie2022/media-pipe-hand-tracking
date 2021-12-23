@@ -1,5 +1,7 @@
-# media-pipe-hand-tracking
-21 landmarks in 3D with multi-hand support, based on high-performance palm detection and hand landmark model
+# MediaPipe-hand-tracking
+ 
+## Description 
+This one is worth 5 minutes of your time, as well as the 5 hours you'll spend mesmorized by how easy and accessible this cutting edge tech it to implement into this simple html, css, js powerhouse. A special thanks to [MediaPipe](https://mediapipe.dev/) who has provided us all with "Live ML anywhere".
 
 <img src="./handtracking0.png" height="180px"/> <img src="./handtracking1.png" height="180px"/> <img src="./handtracking5.png" height="180px"/> <img src="./handtracking3.png" height="180px"/> <img src="./handtracking4.png" height="180px"/> <img src="./handtracking2.png" height="180px"/> <img src="./hand_landmarks.png" height="180px"/> <img src="./hand_crops.png" height="180px"/>
 
